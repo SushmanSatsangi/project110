@@ -1,0 +1,3 @@
+0 Rock Samples
+1 Paper Samples
+2 Scissors Samples
